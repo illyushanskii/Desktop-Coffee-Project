@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+      "projectUniqueName": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
       "projectName": "CoffeeApp",
-      "projectPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\CoffeeApp\\CoffeeApp\\CoffeeApp.csproj",
+      "projectPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
       "packagesPath": "C:\\Users\\illya\\.nuget\\packages\\",
-      "outputPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\CoffeeApp\\CoffeeApp\\obj\\",
+      "outputPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
