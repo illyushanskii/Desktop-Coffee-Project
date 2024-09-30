@@ -36,9 +36,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(289, 189);
             label1.Name = "label1";
-            label1.Size = new Size(74, 20);
+            label1.Size = new Size(54, 20);
             label1.TabIndex = 0;
-            label1.Text = "Текстище";
+            label1.Text = "Тексти";
             // 
             // Form1
             // 
