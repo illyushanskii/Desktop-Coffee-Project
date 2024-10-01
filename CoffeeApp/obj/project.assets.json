@@ -8,24 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\illya\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Sasha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
+      "projectUniqueName": "C:\\Users\\Sasha\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
       "projectName": "CoffeeApp",
-      "projectPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
-      "packagesPath": "C:\\Users\\illya\\.nuget\\packages\\",
-      "outputPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\obj\\",
+      "projectPath": "C:\\Users\\Sasha\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
+      "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sasha\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\illya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
