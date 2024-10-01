@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivans\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj": {}
+    "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivans\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj": {
+    "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivans\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
+        "projectUniqueName": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
         "projectName": "CoffeeApp",
-        "projectPath": "C:\\Users\\ivans\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
-        "packagesPath": "C:\\Users\\ivans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivans\\Source\\Repos\\Desktop-Coffee-Project\\CoffeeApp\\obj\\",
+        "projectPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\CoffeeApp.csproj",
+        "packagesPath": "C:\\Users\\illya\\.nuget\\packages\\",
+        "outputPath": "D:\\ДНУ ФФЕКС\\Семестр 3\\Оптимізація\\Desktop-Coffee-Project\\CoffeeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ivans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\illya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
